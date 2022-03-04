@@ -1,4 +1,4 @@
-### Hi, I'm Tom. Welcome!
+### Hi, I'm Tom.
 
 - 📱 I’m currently working on FitList v2.
 - ⏳ I’m currently learning Unity & Python.
